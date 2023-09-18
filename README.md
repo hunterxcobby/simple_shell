@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/hunterxcobby"><img title="hunter" src="https://img.shields.io/badge/github-hunterxcobby-orange.svg?style=social&logo=github"></a | <a href="https://github.com/amimanye"><img title="amimanye" src="https://img.shields.io/badge/github-amimanye-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/hunterxcobby"><img title="hunter" src="https://img.shields.io/badge/github-hunterxcobby-orange.svg?style=social&logo=github"></a | <a href="https://github.com/aglago"><img title="aglago" src="https://img.shields.io/badge/github-aglago-orange.svg?style=social&logo=github"></a>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ This repository requires you to have these necessary installations to function a
 ## Contributions
 
 + This repository and all of its contents are works/solutions that we came up with for the tasks assigned to us as learners of the C language.
-+ Contributions were made by my project partner [amimanye](https://github.com/amimanye)
++ Contributions were made by my project partner [aglago](https://github.com/aglago)
 + With that being said please let us know if we missed something.
 + We are up for suggestions..
 
@@ -75,22 +75,21 @@ This repository requires you to have these necessary installations to function a
 
 You can contact us via these handles.
 
-[Hunterxcobby](https://github.com/hunterxcobby) | [amimanye](https://github.com/amimanye)
+[Hunterxcobby](https://github.com/hunterxcobby) | [aglago](https://github.com/aglago)
 ----|----
 [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:solomonsefah13@gmail.com) | [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white)](mailto:)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/hunterxcobby) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/ami_aglago)
-[![wq
-LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/cobbysefah) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](http://www.linkedin.com/in/aglago)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/cobbysefah) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](http://www.linkedin.com/in/aglago)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/cobby_is_a_god) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram)](https://instagram.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp)](https://wa.me/233557452729) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp)](https://wa.me/message/233509581027)
 
 ## Moderators
-[![hunterxcobby](https://github.com/hunterxcobby.png?size=100)](https://github.com/hunterxobby) | [![amimanye](https://github.com/amimanye.png?size=100)](https://github.com/amimanye)
+[![hunterxcobby](https://github.com/hunterxcobby.png?size=100)](https://github.com/hunterxobby) | [![aglago](https://github.com/aglago.png?size=100)](https://github.com/aglago)
 ----|----
-[Hunterxcobby](https://github.com/hunterxcobby) | [amimanye](https://github.com/amimanye)
+[Hunterxcobby](https://github.com/hunterxcobby) | [aglago](https://github.com/aglago)
 
 
 ## Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hunterxcobby&show_icons=true=true&&count_public=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amimanye&show_icons=true=true&&count_public=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aglago&show_icons=true=true&&count_public=true&include_all_commits=true" />
