@@ -197,6 +197,7 @@ int main(int ac, char **av)
 		{
 			/* taking environment variable PATH */
 			char *PATH = getenv("PATH");
+
 			if (PATH == NULL)
 				continue;
 
